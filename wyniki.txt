@@ -1,0 +1,10 @@
+ZADANIE 1.
+
+	Jeœli metoda wirtualna zosta³a zaimplementowana w jakimkolwiek wy¿szym poziomie dziedziczenia (w szczególnoœci w klasie bazowej ca³ej struktury dziedziczenia), nie jest konieczne podawanie implementacji w klasie pochodnej.
+S³owo "override" ma jedynie charakter podkreœlenia, ¿e dana metoda w klasie Pochodnej przes³ania metodê wirtualn¹ z klasy Bazowej.
+	Je¿eli ¿adna z metod w klasie nie ma deklaracji "virtual", to funkcja Pochodna przes³ania funkcjê Bazow¹.
+	
+
+ZADANIE2.
+
+	Szablon funkcji pozwala stworzyæ wiele funkcji ró¿ni¹cych siê tylko typem argumentów przyjmowanych. Za³ó¿my, ¿e chcielibyœmy napisaæ funkcjê pisz, której jedynym argumentem by³aby zmienna, któr¹ chcemy wypisaæ. Aby móc wypisywaæ wiele typów zmiennych mo¿emy skorzystaæ z prze³adowania (inna nazwa na przeci¹¿enie) funkcji. WAZNE --> Nie mo¿na stosowaæ szablonów dla metod wirtualnych. Moj program pokazuje jak korzystam z roznych typow zmiennych.
